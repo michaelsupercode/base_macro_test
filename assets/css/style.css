@@ -30,4 +30,10 @@ body {
 
  .ingredients {
     background: darkorange;
+    margin-top: 2em;
+ }
+
+ .guide {
+    margin-top: 2em;
+
  }
