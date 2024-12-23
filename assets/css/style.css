@@ -1,0 +1,33 @@
+* {
+    border: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: grid;
+    align-items: center;
+    justify-content: center;
+  }
+
+  header {
+      margin-top:2em;
+      display: grid;
+      align-items: center;
+      justify-content: center;
+}
+
+  main {
+    display: grid;
+    margin-top:2em;
+    padding:1em;
+    width: 80vw;
+  }
+
+  main:hover {
+    box-shadow: 0 0 11px rgba(33,33,33,.2); 
+  }
+
+ .ingredients {
+    background: darkorange;
+ }
