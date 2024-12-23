@@ -24,9 +24,9 @@ h3{
 
   main {
     display: flex;
-    margin-top:2em;
+    margin-top:3em;
     padding:1em;
-    width: 80vw;
+    width: 99vw;
   }
 
   main:hover {
