@@ -11,14 +11,19 @@ body {
   }
 
   header {
-      margin-top:2em;
       display: grid;
+      margin-top:2em;
       align-items: center;
       justify-content: center;
 }
 
+h3{
+    margin-top:2em;
+    text-align: center;
+}
+
   main {
-    display: grid;
+    display: flex;
     margin-top:2em;
     padding:1em;
     width: 80vw;
@@ -29,8 +34,9 @@ body {
   }
 
  .ingredients {
+    width: 70vw;
     background: darkorange;
-    margin-top: 2em;
+    margin-right: 1em;
  }
 
  .guide {
