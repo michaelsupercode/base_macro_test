@@ -34,12 +34,13 @@ h3{
   }
 
  .ingredients {
-    width: 70vw;
     background: darkorange;
     margin-right: 1em;
+    padding: 1em;
  }
 
  .guide {
-    margin-top: 2em;
+    background: grey;
+    padding: 1em;
 
  }
