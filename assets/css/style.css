@@ -1,23 +1,26 @@
 * {
     border: 0;
-    margin: 0;
+    margin: 0 auto;
     box-sizing: border-box;
 }
 
 body {
-    display: grid;
-    align-items: center;
-    justify-content: center;
+   
   }
 
-  header {
-      display: grid;
-      margin-top:2em;
-      align-items: center;
-      justify-content: center;
+  .layout {
+
 }
 
-h3{
+  header {
+      /* display: grid;
+      margin-top:2em;
+      width: 50vw;
+      align-items: center;
+      justify-content: center; */
+}
+
+/* h3{
     margin-top:2em;
     text-align: center;
 }
@@ -26,7 +29,7 @@ h3{
     display: flex;
     margin-top:3em;
     padding:1em;
-    width: 99vw;
+    width: auto;
   }
 
   main:hover {
@@ -36,11 +39,11 @@ h3{
  .ingredients {
     background: darkorange;
     margin-right: 1em;
-    padding: 1em;
+    padding: 2em;
  }
 
  .guide {
     background: grey;
     padding: 1em;
 
- }
+ } */
