@@ -1,20 +1,21 @@
 * {
-    border: 0;
-    margin: 0 auto;
-    box-sizing: border-box;
+  border: 0;
+  margin: 0 auto;
+  box-sizing: border-box;
 }
 
 body {
+  width: 90vw;
   display: flex;
   justify-content: center;
-      }
+}
 
-  .layout {
-margin: 5vh;
+.layout {
+  margin: 5vh;
 }
 
 main:hover {
-  box-shadow: 0 0 11px rgba(33,33,33,.2); 
+  box-shadow: 0 0 11px rgba(33, 33, 33, 0.2);
 }
 
 /* h3{
